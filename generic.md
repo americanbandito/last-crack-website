@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Generic
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: About
+description: Last Crack - The band.
+image: band-photo.jpg
 ---
 
-### Lorem ipsum dolor
+Formed in 1987 in Madison, WI, **Last Crack** is a five-piece band who's first demo circulated regionally and landed in the hands of fan-zine writer Jake Wisely in Minneapolis. It was Jake that turned RoadRunner's Monte Conner on to the Madison band.
 
-Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.
+The band signed to Roadrunner Records within 9 months of creation and Last Crack recorded Sinister Funkhouse #17 at Prince's Paisley Park. With the 1989 release of Sinister Funkhouse #17, the band got the attention of the major metal magazines, and quickly developed a loyal fan base.
 
-Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius.
+Their sophomore effort released in 1991, Burning Time, was recorded at Eldorado Studios in Hollywood, with Dave Jerden. Named Producer of the Year by Rolling Stone magazine, Jerden had also worked with the Stones, Kiss, Jane's Addiction and Alice In Chains. Burning Time, was met with critical acclaim and the band embarked on a tour of the US and Europe.
 
---------------------------------------------------------------------------------
+Last Crack, live or recorded, is always an experience of total immersion.  Their brooding disposition, dynamic dueling guitars, tight rhythm section and visionary lead-singer take the listener on a sound-scape journey as they travel from rocket highs to railroad lows.
 
-#### Feugiat aliquam
+Fueled by conflicts and industry pressures the band broke up months after the Burning Time tour had begun, leaving all wondering why? Phil Buerstatte would go on to play drums for White Zombie. Buddo, Paul, Don and Todd all continued performing in several popular Wisconsin bands including Magic 7, White Fear Chain, Bliss, Cudasigh, Faces for Radio, The Din, Muzzy Luctin and Good Morning V.
 
-Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat.
-
-Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.
+Fast forward to the present and Last Crack has completed their third full-length album entitled **The Up Rising** due out 05/31/2019. Their single "Icicle" was released along with a video in the fall of 2017. The band is still forging their own path, at their own pace, and their passion is as vital as ever. When you have this magic, it's something that never diminishes. This year will see the completion of their first full-length new release in over 25 years, something their fans have faithfully waited for.
