@@ -62,9 +62,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.12)
-  jekyll (~> 3.3)
+  bundler (~> 2.0.1)
+  jekyll (~> 3.8.5)
   spectral_jekyll_theme!
 
 BUNDLED WITH
-   1.17.3
+   2.0.1
