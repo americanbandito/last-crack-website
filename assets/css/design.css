@@ -1,0 +1,6 @@
+#menu ul.icons {
+  margin-left: 0px !important;
+}
+#menu ul.icons > li {
+  border-top: 0 !important;
+}
