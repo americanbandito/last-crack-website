@@ -3,6 +3,7 @@ layout: page
 title: About
 description: Last Crack - The band.
 image: band-photo-full.jpg
+permalink: about
 ---
 
 Formed in 1987 in Madison, WI, **Last Crack** is a five-piece band who's first demo circulated regionally and landed in the hands of fan-zine writer Jake Wisely in Minneapolis. It was Jake that turned RoadRunner's Monte Conner on to the Madison band.

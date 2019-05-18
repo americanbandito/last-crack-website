@@ -32,7 +32,7 @@ GEM
     execjs (2.7.0)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    ffi (1.10.0)
+    ffi (1.11.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (198)
@@ -247,10 +247,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.17.3)
+  bundler (~> 2.0.1)
   github-pages
   jekyll (~> 3.8.5)
   spectral_jekyll_theme!
 
 BUNDLED WITH
-   1.17.3
+   2.0.1

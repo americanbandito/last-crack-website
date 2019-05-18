@@ -1,9 +1,9 @@
 # Site settings
 title: Last Crack
-email: youremailaddress@gmail.com
+email:
 description: THE UP RISING
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.lastcrackmusic.com" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
