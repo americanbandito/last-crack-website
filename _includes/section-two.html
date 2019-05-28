@@ -8,6 +8,9 @@
 		<div class="content">
 			<h2><a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a></h2>
 			<p>{{ post.description }}</p>
+			<p>
+				<a href="{{ post.url | relative_url }}" class="button">More</a>
+			</p>
 		</div>
 	</section>
 
@@ -19,6 +22,9 @@
 		<div class="content">
 			<h2><a href="{{ page.url | relative_url }}" class="link">{{ page.title }}</a></h2>
 			<p>{{ page.description }}</p>
+			<p>
+				<a href="{{ post.url | relative_url }}" class="button">More</a>
+			</p>
 		</div>
 	</section>
 
