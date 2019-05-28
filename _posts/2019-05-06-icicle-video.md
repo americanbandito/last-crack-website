@@ -26,9 +26,12 @@ The album is available for pre-order now at:<br>
 
 Formed in 1987, LAST CRACK recorded its first five-song demo and was brought to the attention of legendary Roadrunner A&R man Monte Conner, who signed the band and sent them off to Prince's Paisley Park to begin work on their 1989 Roadrunner debut, Sinister Funkhouse #17.
 
+---
+
 The album, aptly named after their practice/storage unit they rented outside of Madison. Dedicating hours of playing in a hot, sweaty garage with vocalist Buddo scribbling lyrics on the walls, the original lineup of Buddo, Don Bakken and Paul Schluter on guitars, Todd Winger on bass, and Phil Buerstatte on drums, LAST CRACK was more than ready to unleash its heavy/quirky sound and visions to the world.
 
 With the release of "Funkhouse", LAST CRACK got the attention of the major metal magazines, and quickly developed a loyal fan base.
+
 Their sophomore effort, Burning Time, was recorded at Eldorado Studios in Hollywood with Dave Jerden, famed for recording iconic albums with JANE'S ADDICTION and ALICE IN CHAINS. The LP was met with critical acclaim and the band embarked on a tour of the U.S. and Europe.
 
 EMP's Thom Hazaert commented: "Growing up in Wisconsin, LAST CRACK coming out of Madison was such a huge deal. I remember Burning Time coming out, and it was like dynamite. They were really doing something that no one else was doing at the time. All the 'cool' kids loved them. They were always a band that was so ahead of their time, and it's a huge honor to release the follow-up to 'Burning Time', all these years later. Hopefully the world finally caught up."
