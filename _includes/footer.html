@@ -10,6 +10,9 @@
 		{% endif %} {% if site.youtube_url %}
 		<li><a href="{{ site.youtube_url }}" class="icon fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
 		{% endif %}
+    {% if site.email_url %}
+    <li><a href="mailto:{{ site.email_url }}" class="icon fa-envelope-o" target="_blank"><span class="label">Email</span></a></li>
+    {% endif %}
 	</ul>
 	<ul class="copyright">
 		<li>&copy; 2019 {{ site.title }}</li>
