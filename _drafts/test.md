@@ -2,7 +2,7 @@
 layout: post
 title: test
 description: test description
-image: images/round.jpg
+image: "/images/round.jpg"
 video: ''
 
 ---
