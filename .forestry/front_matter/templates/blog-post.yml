@@ -1,6 +1,6 @@
 ---
-label: Blog post
-hide_body: false
+label: Post with image header
+hide_body: true
 fields:
 - type: text
   name: layout
@@ -21,10 +21,5 @@ fields:
   name: image
   label: image
   description: header image goes here if there is one
-- type: text
-  name: video
-  label: video
-  description: youtube video link goes here add embed between youtube.com and numbers
-    and letters for video link example - https://www.youtube.com/embed/DMRVkTzKS44
 pages:
 - _posts/test.md
