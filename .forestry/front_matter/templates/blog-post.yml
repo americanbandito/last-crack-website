@@ -21,3 +21,5 @@ fields:
   name: image
   label: image
   description: header image goes here if there is one
+pages:
+- _posts/test.md
