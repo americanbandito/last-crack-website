@@ -5,15 +5,26 @@ fields:
 - type: text
   name: layout
   label: layout
+  description: Page layout design
+  default: post
 - type: text
   name: title
   label: title
+  description: Title of the post
+  config:
+    required: true
 - type: text
   name: description
   label: description
+  description: This is a subtitle that goes under the title in both the post and the
+    preview on the home page
 - type: text
   name: image
   label: image
+  description: Header image for the post if there is one. Just add the name of the
+    image file from the media section. example - round.jpg
 - type: text
   name: video
   label: video
+  description: Add the url link to the youtube video and put /embed/ after the youtube.com
+    in the link example - change link https://youtu.be/DMRVkTzKS44 to https://www.youtube.com/embed/DMRVkTzKS44
