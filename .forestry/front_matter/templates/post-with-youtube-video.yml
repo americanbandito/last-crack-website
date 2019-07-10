@@ -22,7 +22,8 @@ fields:
   name: image
   label: image
   description: Header image for the post if there is one. Just add the name of the
-    image file from the media section. example - round.jpg
+    image file from the media section. example - round.jpg - leaving this blank will
+    use the default image
 - type: text
   name: video
   label: video
