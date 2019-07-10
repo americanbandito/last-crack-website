@@ -5,15 +5,22 @@ fields:
 - type: text
   name: layout
   label: layout
+  description: Post layout design
+  default: post
 - type: text
   name: title
   label: title
+  description: Title of the post
+  config:
+    required: true
 - type: text
   name: description
   label: description
+  description: subheading - this goes under the title in the header and the post preview
+    on the home page
 - type: text
   name: image
   label: image
-- type: text
-  name: video
-  label: video
+  description: Header image for the post - Also shows in the preview on the home page.
+    Use the name of the image file uploaded to the media section including image type
+    .jpg or .png - example bandphoto.jpg - leaving this field blank uses default image
