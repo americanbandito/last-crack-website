@@ -24,5 +24,3 @@ fields:
   description: Header image for the post - Also shows in the preview on the home page.
     Use the name of the image file uploaded to the media section including image type
     .jpg or .png - example bandphoto.jpg - leaving this field blank uses default image
-pages:
-- _posts/test-post.md
