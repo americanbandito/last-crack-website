@@ -100,8 +100,6 @@
 						config.target = $($.find(config.target));
 					else if (config.target && (config.target.nodeType || config.target === window || config.target === document))
 						config.target = $([config.target]);
-					else if ($.isArray(config.target) || (config.target && typeof config.target.length === 'number'))
-						config.target = $(Array.prototype.filter.call(config.target, function(node) { return node && (node.nodeType || node === window || node === document); }));
 					else
 						config.target = $this;
 				}
