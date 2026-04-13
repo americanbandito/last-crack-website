@@ -98,8 +98,12 @@
 				if (!config.target || !config.target.jquery) {
 					if (typeof config.target === 'string')
 						config.target = $($.find(config.target));
-					else
+					else if (config.target && (config.target.nodeType || config.target === window || config.target === document))
 						config.target = $(config.target);
+					else if ($.isArray(config.target) || (config.target && typeof config.target.length === 'number'))
+						config.target = $(config.target).filter(function() { return this && this.nodeType; });
+					else
+						config.target = $this;
 				}
 
 		// Panel.
